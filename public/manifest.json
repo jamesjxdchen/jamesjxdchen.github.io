@@ -1,0 +1,12 @@
+{
+	"name": "ericjwdchen.org",
+	"icons": [
+		{
+			"src": "\/public\/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image\/png"
+		}
+	],
+	"theme_color": "#bf1f49",
+	"display": "standalone"
+}

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+  {% include head.html %}
+  <body>
+    <header>
+      <nav>
+        <h1><a href="{{ site.url }}" title="Home">{{ site.title }}</a></h1>
+        <div class="nav-links">
+          {% for weight in (1..1) %} {% for p in site.pages %} {% if p.weight == weight %}
+          <a href="{{ p.url }}"> {{ p.title }}</a>
+          {% endif %} {% endfor %} {% endfor %}
+          <a title="Subscribe to ericjwdchen.org via RSS" href ="/rss.xml">rss</a>
+        </div>
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <p>© 2014 – {{ 'now' | date: "%Y" }} {{site.author.name}}</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article>
+  <h1>
+    {% if page.link %}
+    <a href="{{ post.link }}">⇜ {{ page.title }} ⇝</a>
+    {% else %}{{ page.title }}
+    {% endif %}
+  </h1>
+
+  <p class="grey">
+    {{ page.date | date: "%B %-d, %Y" }}
+    • {% assign reading_time = content | strip_html | number_of_words | plus:91 | divided_by: 180 %}
+    {% if reading_time < 0.5 %}1 min read
+    {% else %}{{ reading_time }} min read
+    {% endif %}
+  </p>
+  {{ content }}
+</article>
+<div role="separator"></div>
