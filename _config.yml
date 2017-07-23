@@ -13,8 +13,8 @@ baseurl:          /
 header:           "http:"
 author:
   name:           Jimmy Chen
-  url:            
-  email:          jimmy@jimmy.org
+  url:
+user.email:          jimmy@jimmychen.org
 
 gems:
   - jekyll-sitemap
