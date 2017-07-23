@@ -13,7 +13,6 @@ You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][gi
 [ls]: http://www.lawrenceville.org/index.aspx
 
 [twitter]: https://twitter.com/jamesjxdchen
-[linkedin]: https://www.linkedin.com/in/ericjwdchen
 [github]: https://github.com/jamesjxdchen
 [rss]: http://jimmychen.org/rss.xml
 
