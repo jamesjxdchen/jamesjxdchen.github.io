@@ -4,8 +4,6 @@ title: About
 weight: 1
 ---
 
-<!---![Eric Chen headshot](/assets/2015/01/headshot-eric-chen.jpg){: .img-right .img-circular}--->
-
 Hey there! I'm Jimmy Chen
 
 I live in Wisconsin and am a sophomore at [The Lawrenceville School][ls].
