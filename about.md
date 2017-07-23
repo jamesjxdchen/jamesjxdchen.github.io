@@ -10,15 +10,12 @@ I live in Wisconsin and am a sophomore at [The Lawrenceville School][ls].
 
 You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][github]. A full feed of this site is also available through [RSS][rss] and [Twitter][twitter site]. My email is jimmy~at~jimmychen.org.
 
-[pu]: http://www.princeton.edu/
 [ls]: http://www.lawrenceville.org/index.aspx
 
 [twitter]: https://twitter.com/jamesjxdchen
 [linkedin]: https://www.linkedin.com/in/ericjwdchen
-[github]: https://github.com/jimmyhen
-[rss]: http://ericjwdchen.org/rss.xml
-[twitter site]: https://twitter.com/ericjwdchen_org
-
+[github]: https://github.com/jamesjxdchen
+[rss]: http://jimmychen.org/rss.xml
 
 ## How the Sausage is Made
 
