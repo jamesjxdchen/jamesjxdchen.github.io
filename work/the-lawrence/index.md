@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Newspaper Redesign for <em>The Lawrence</em> (2014-2015)
-weight: 2
+weight: 100
 ---
 
 *Bringing the print to the web.*

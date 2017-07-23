@@ -6,18 +6,21 @@ highlighter: rouge
 permalink:        pretty
 
 # Setup
-title:            Jimmy Chenfdfs
+title:            Jimmy Chen
 url:              //jimmychen.org
 paginate:         5
-baseurl:          /
+baseurl:
 header:           "http:"
 author:
-  name:           Jimmy Chen
-  url:
-user.email:          jimmy@jimmychen.org
+  name:           Eric Chen
+  url:            https://twitter.com/ericjwdchen_org
+  email:          jimmy@jimmychen.org
 
 gems:
   - jekyll-sitemap
 
 sass:
   style: :compressed
+
+variables:
+  primary-color: "#bf1f49"

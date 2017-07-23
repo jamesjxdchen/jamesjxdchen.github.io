@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Business Consulting Website (2016)
-weight: 2
+weight: 100
 ---
 ## [Business Consulting Website][JEAP] (2016)
 
